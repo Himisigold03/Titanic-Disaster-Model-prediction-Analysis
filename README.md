@@ -1,9 +1,6 @@
 # Titanic-Disaster-Model-prediction-Analysis
 This is a model built to predict the survival of an individual in a titanic diasater
-
 ---
-
-````markdown
 # Titanic Survival Prediction  
 A complete machine learning pipeline that predicts passenger survival on the Titanic using multiple classification algorithms.  
 This project covers **data loading, cleaning, visualization, preprocessing, feature engineering, model training, evaluation, and model saving**.
